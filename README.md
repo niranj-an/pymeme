@@ -1,4 +1,2 @@
-# pymeme
-school assignment - 01
+# Pymeme is a project that serves as a Python game and meme directory.
 
-This project is made for Digital Design MYP1
